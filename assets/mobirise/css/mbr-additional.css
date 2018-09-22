@@ -1804,12 +1804,11 @@ body {
   margin: 0 0 .5rem 0;
 }
 .cid-r4oIuIUU8S {
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: #ffffff;
 }
 .cid-r4oIuIUU8S .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-r4oIuIUU8S .mbr-figure {
   margin: 0 auto;
